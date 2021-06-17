@@ -1,0 +1,7 @@
+This paste is created for Tripwire exercise.
+No sensitive details. Test data to detect efficiency of the tools.
+Alert handlers do as per BAU. This is CTI Drill
+ 
+3. test@ocbc.com
+ 
+* Email
